@@ -5,4 +5,4 @@ cd free-flow
 npm install
 npm run dev
 
-This was a group project. My involvement was mainly in the Timer.tsx, UserLoginBoxes.tsx, OtherPlayerCanvas/Display.tsx, Canvas.tsx, GameContext.tsx, and firebase.ts files.
+This was a group project. My involvement was mainly in the Timer.tsx, UserLoginBoxes.tsx, OtherPlayerCanvas/Display.tsx, Canvas.tsx, GameContext.tsx, and dataManager.ts files.
